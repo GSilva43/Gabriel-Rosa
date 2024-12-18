@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Atualmente trabalho na Empresa Pilkington e estudo na Fatec de São José dos Campos.
 </p>
 
 <p align="left">

@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Eu sou Gabriel Rosa, tenho 23 anos e moro em Caçapava, São Paulo. Atualmente, estudo Logística e estou sempre em busca de novos conhecimentos e desafios. Este repositório serve como um espaço para compartilhar meus aprendizados, fazer anotações importantes e desenvolver projetos pessoais. Atualmente trabalho na Empresa Pilkington e estudo na Fatec de São José dos Campos.
+👋 Olá! Eu sou Gabriel Rosa, tenho 23 anos e moro em Caçapava, São Paulo. Atualmente, estudo Logística e estou sempre em busca de novos conhecimentos e desafios. Este repositório serve como um espaço para compartilhar meus aprendizados, fazer anotações importantes e desenvolver projetos pessoais.
 </p>
 
 <p align="left">
